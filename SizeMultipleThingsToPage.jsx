@@ -1,6 +1,6 @@
 //SizeMultipleThingsToPage.jsx
 //Original InDesign ExtendScript was developed by Silicon Publishing, Inc.
-//This version doesn't group several selected objects into one but tries to fit each object separately to the parent page. 
+//This version doesn't group several selected objects into one but fit each object separately to the parent page. 
 //
 //Resizes the current selection to the size of the page. 
 /*
